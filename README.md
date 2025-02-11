@@ -9,7 +9,7 @@ A React boilerplate repo using Webpack 4, Babel, Eslint and Prettier. The repo w
 [ ] Clone the repo and type the following commands to run the app:
 
 ```
-[https://github.com/ranggaprima/road_network.git](https://github.com/ranggaprima/coding_collective_skill_test.git)
+https://github.com/ranggaprima/coding_collective_skill_test.git
 
 ```
 
