@@ -32,11 +32,11 @@ https://github.com/ranggaprima/road_network.git
 ## Usage
 
 ```
-npm && npm start
+npm run dev
 
 or
 
-yarn && yarn start
+yarn run dev
 ```
 
 ## Open Browser
