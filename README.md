@@ -32,11 +32,11 @@ https://github.com/ranggaprima/coding_collective_skill_test.git
 ## Usage
 
 ```
-npm run dev
+npm start
 
 or
 
-yarn run dev
+yarn start
 ```
 
 ## Open Browser
