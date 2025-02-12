@@ -6,16 +6,16 @@ A React boilerplate repo using Webpack 4, Babel, Eslint and Prettier. The repo w
 
 ## Instalation
 
+[ ] Install node (Download from https://nodejs.org/en/download)
+[ ] Open console or command prompt
 [ ] Clone the repo and type the following commands to run the app:
 
 ```
 https://github.com/ranggaprima/coding_collective_skill_test.git
 
 ```
-
-[ ] Open console or command prompt
-
-[ ] Install node package manager
+[ ] From the console or command prompt go to root folder
+[ ] Install node package manager (choose npm or yarn)
 
 ```
     npm install or yarn install
@@ -39,8 +39,9 @@ or
 yarn start
 ```
 
-## Open Browser
+## Open Browser (Chrome, Firefox)
 
 ```
-localhost:5173
+[ ] http://localhost:5173
+[ ] Select & click Dashboard menu
 ```
